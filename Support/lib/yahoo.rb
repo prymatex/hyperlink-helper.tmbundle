@@ -1,4 +1,4 @@
-#/usr/local/bin/ruby
+#!/usr/bin/env ruby18
 
 ##
 # Ruby API for Yahoo! Search Web Services
